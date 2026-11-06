@@ -1,0 +1,3 @@
+### get all
+GET https://localhost:7246/api/superhero
+
